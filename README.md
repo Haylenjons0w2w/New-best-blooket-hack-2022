@@ -6,4 +6,4 @@ In the begining of the game when it asks you to choose a blook to start, Press t
 so that's The only way to access the unsaved blooks.
 
 Go to https://www.gbasil.dev/blooket for updates if the script doesn't work.
-And thats also where the hack is located.
+ And thats also where the hack is located.
